@@ -1,4 +1,4 @@
-# Earths-Last-Stand
+# Earths Last Stand
 
 The game will feature simple gameplay and great narrative
 the story goes like this:
